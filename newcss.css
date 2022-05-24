@@ -1,0 +1,8 @@
+*{margin: 0px; padding: 0px; overflow:hidden;};
+#p5_loading {position: absolute; font-family: 'Roboto', sans-serif; float: right};
+#arrow {
+margin-top: 15px; margin-left: 15px; float: left;  z-index: 10; position: absolute;};
+.p5Canvas{position: relative; float: left; z-index: -4;}
+
+#img {margin-top: 15px; margin-left: 15px; width: 30px; float: left;  z-index: 10; position: absolute;}
+
